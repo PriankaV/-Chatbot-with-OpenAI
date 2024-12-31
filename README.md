@@ -13,5 +13,5 @@ This repository contains a simple chatbot application built using OpenAI's GPT-3
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-openai.git
+   git clone https://github.com/PriankaV/chatbot-openai.git
    cd chatbot-openai
